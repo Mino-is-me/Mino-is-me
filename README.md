@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mino-is-me
-- 👀 I’m interested in CG, Python, FE
+- 👀 I’m interested in CG, HLSL, Python, FE
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me -> minomi7029@gmail.com
 
